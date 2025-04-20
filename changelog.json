@@ -180,9 +180,15 @@
         },
         {
           "name": "catalogs",
-          "version": "1.1.0",
-          "majorversion": "0.0.5.1.5",
+          "version": "1.2.0",
+          "majorversion": "2.1.5.2.6",
           "history": [
+            {
+              "version": "1.2.0",
+              "majorversion": "2.1.5.2.6",
+              "changelog": "filter PRODUCT LIST UPDATED.",
+              "date": "2025-04-17"
+            },
             {
               "version": "1.1.0",
               "majorversion": "0.0.5.1.5",
