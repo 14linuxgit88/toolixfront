@@ -329,6 +329,219 @@
         }
       
       ]
+    },
+    {
+      "name": "sdms",
+      "version": "1.0.0",
+      "majorversion": "0.0.0.0.0",
+      "history": [
+        {
+          "version": "1.0.0",
+          "majorversion": "0.0.0.0.0",
+          "changelog": "Initial release of internal module.",
+          "date": "2025-03-01"
+        }
+      ],
+      "submodules": [
+        {
+          "name": "orders",
+          "version": "1.0.0",
+          "majorversion": "0.0.0.0.0",
+          "history": [
+          
+            {
+              "version": "1.0.0",
+              "majorversion": "0.0.0.0.0",
+
+              "changelog": "Initial release for employee management.",
+              "date": "2025-03-01"
+            }
+          ]
+        },
+        {
+          "name": "orders-preparer",
+          "version": "1.0.0",
+          "majorversion": "0.0.0.0.0",
+          "history": [
+            {
+              "version": "1.0.0",
+              "majorversion": "0.0.0.0.0",
+              "changelog": "Initial release for schedule management.",
+              "date": "2025-03-01"
+            }
+          ]
+        },
+        {
+          "name": "orders-waitr",
+          "version": "1.0.0",
+          "majorversion": "0.0.0.0.0",
+          "history": [
+            {
+              "version": "1.0.0",
+              "majorversion": "0.0.0.0.0",
+              "changelog": "Initial release for schedule management.",
+              "date": "2025-03-01"
+            }
+          ]
+        },
+        {
+          "name": "orders-pickers",
+          "version": "1.0.0",
+          "majorversion": "0.0.0.0.0",
+          "history": [
+            {
+              "version": "1.0.0",
+              "majorversion": "0.0.0.0.0",
+              "changelog": "Initial release for schedule management.",
+              "date": "2025-03-01"
+            }
+          ]
+        },
+        {
+          "name": "orders-delivery-pos",
+          "version": "1.0.0",
+          "majorversion": "0.0.0.0.0",
+          "history": [
+            {
+              "version": "1.0.0",
+              "majorversion": "0.0.0.0.0",
+              "changelog": "Initial release for schedule management.",
+              "date": "2025-03-01"
+            }
+          ]
+        },
+        {
+          "name": "orders-delivery-ons",
+          "version": "1.0.0",
+          "majorversion": "0.0.0.0.0",
+          "history": [
+            {
+              "version": "1.0.0",
+              "majorversion": "0.0.0.0.0",
+              "changelog": "Initial release for schedule management.",
+              "date": "2025-03-01"
+            }
+          ]
+        },
+        {
+          "name": "deliveries",
+          "version": "1.0.0",
+          "majorversion": "0.0.0.0.0",
+          "history": [
+            {
+              "version": "1.0.0",
+              "majorversion": "0.0.0.0.0",
+              "changelog": "Initial release for schedule management.",
+              "date": "2025-03-01"
+            }
+          ]
+        },
+        {
+          "name": "pickers",
+          "version": "1.0.0",
+          "majorversion": "0.0.0.0.0",
+          "history": [
+            {
+              "version": "1.0.0",
+              "majorversion": "0.0.0.0.0",
+              "changelog": "Initial release for schedule management.",
+              "date": "2025-03-01"
+            }
+          ]
+        },
+        {
+          "name": "waitr",
+          "version": "1.0.0",
+          "majorversion": "0.0.0.0.0",
+          "history": [
+            {
+              "version": "1.0.0",
+              "majorversion": "0.0.0.0.0",
+              "changelog": "Initial release for schedule management.",
+              "date": "2025-03-01"
+            }
+          ]
+        },
+        {
+          "name": "preparer",
+          "version": "1.0.0",
+          "majorversion": "0.0.0.0.0",
+          "history": [
+            {
+              "version": "1.0.0",
+              "majorversion": "0.0.0.0.0",
+              "changelog": "Initial release for schedule management.",
+              "date": "2025-03-01"
+            }
+          ]
+        },
+        {
+          "name": "change",
+          "version": "1.0.0",
+          "majorversion": "0.0.0.0.0",
+          "history": [
+            {
+              "version": "1.0.0",
+              "majorversion": "0.0.0.0.0",
+              "changelog": "Initial release for schedule management.",
+              "date": "2025-03-01"
+            }
+          ]
+        },
+        {
+          "name": "boxes",
+          "version": "1.0.0",
+          "majorversion": "0.0.0.0.0",
+          "history": [
+            {
+              "version": "1.0.0",
+              "majorversion": "0.0.0.0.0",
+              "changelog": "Initial release for schedule management.",
+              "date": "2025-03-01"
+            }
+          ]
+        },
+        {
+          "name": "fidelization",
+          "version": "1.0.0",
+          "majorversion": "0.0.0.0.0",
+          "history": [
+            {
+              "version": "1.0.0",
+              "majorversion": "0.0.0.0.0",
+              "changelog": "Initial release for schedule management.",
+              "date": "2025-03-01"
+            }
+          ]
+        },
+        {
+          "name": "localization",
+          "version": "1.0.0",
+          "majorversion": "0.0.0.0.0",
+          "history": [
+            {
+              "version": "1.0.0",
+              "majorversion": "0.0.0.0.0",
+              "changelog": "Initial release for schedule management.",
+              "date": "2025-03-01"
+            }
+          ]
+        },
+        {
+          "name": "customers",
+          "version": "1.0.0",
+          "majorversion": "0.0.0.0.0",
+          "history": [
+            {
+              "version": "1.0.0",
+              "majorversion": "0.0.0.0.0",
+              "changelog": "Initial release for schedule management.",
+              "date": "2025-03-01"
+            }
+          ]
+        }
+      
+      ]
     }
   ]
 }
